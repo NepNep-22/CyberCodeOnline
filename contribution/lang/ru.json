@@ -277,7 +277,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	 	"Вы хотите купить юниты или использовать свои юниты?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -298,11 +298,8 @@
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	"trans": "Здравствуйте! Сделайте пожертвование, чтобы получить косметические привилегии и поддержать такие бесплатные игр, как эта!",
+ 	 	 	 	"eng":	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
  	 	 	 	]
  	 	 	}
  	 	},
@@ -316,11 +313,8 @@
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"I'll print whatever you want if you have the cache!"
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"I'll print whatever you want if you have the cache!"
+ 	 	 	 	"trans":	"Я напечатаю все, что вы хотите, если у вас есть кеш!",
+ 	 	 	 	"eng":	"I'll print whatever you want if you have the cache!"
  	 	 	 	]
  	 	 	}
  	 	},
@@ -330,11 +324,8 @@
  	 	 	 	"eng": "Weapon Smith"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"You will find the best gear here, trust me."
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"You will find the best gear here, trust me."
+ 	 	 	 	"trans":	"Здесь вы найдете лучшее снаряжение, уж поверьте мне.",
+ 	 	 	 	"eng":	"You will find the best gear here, trust me."
  	 	 	 	]
  	 	 	}
  	 	},
@@ -356,11 +347,9 @@
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	"trans":
+ 	 	 	 	 	"Я помогу вам перейти к следующей области!",
+ 	 	 	 	"eng":	"I'll help you to progress to the next area!"
  	 	 	 	]
  	 	 	}
  	 	},
@@ -370,11 +359,8 @@
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	"trans": "Эй малыш... Иди посмотри мои товары.",
+ 	 	 	 	"eng": "Hey kid... Come check out my goods."
  	 	 	 	]
  	 	 	}
  	 	},
@@ -388,11 +374,8 @@
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	"trans":	"Добро пожаловать. Что я могу припасить для вас?",
+ 	 	 	 	"eng":	"Welcome. What can I store for you?"
  	 	 	 	]
  	 	 	}
  	 	},
@@ -410,11 +393,8 @@
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
+ 	 	 	 	"trans":	"Вставьте калибровочное ядро в машину, и я помогу вам откалибровать любое ваше оборудование.",
+ 	 	 	 	"eng":	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
  	 	 	 	]
  	 	 	}
  	 	},
@@ -432,11 +412,8 @@
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
- 	 	 	 	],
- 	 	 	 	"eng": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	"trans":	"Эй, малыш, я Ли. Знаешь, тебе не обязательно носить все, что у тебя в карманах.",
+ 	 	 	 	"eng": "Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
  	 	 	 	]
  	 	 	}
  	 	},
@@ -633,7 +610,7 @@
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "высокого качества",
+ 	 	 	 	"trans": "высокое качество",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
@@ -1379,7 +1356,7 @@
  	 	 	 	 	"maxStack",
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "Shard, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс снижения легендарных (${legendaryChance}%) и Epic (${epicChance}%) элементов при разблокировании легендарных контейнеров (стек до ${maxStack} раз) за ${time} минут. Дополнительный шанс получить тайный контейнер во время рождественского сезона.",
+ 	 	 	 	"trans": "Осколок, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс снижения легендарных (${legendaryChance}%) и Epic (${epicChance}%) элементов при разблокировании легендарных контейнеров (стек до ${maxStack} раз) за ${time} минут. Дополнительный шанс получить тайный контейнер во время рождественского сезона.",
  	 	 	 	"eng": "A shard that contains advance exploits designed to increase random drop chance of high tier items. Gains additional drop chance of Legendary (${legendaryChance}%) and Epic (${epicChance}%) items when unlocking Legendary containers (stack up to ${maxStack} times) for ${time} minutes. Extra chance to get Mystery Container during Christmas season."
  	 	 	},
  	 	 	"descriptionv3": {
@@ -1389,7 +1366,7 @@
  	 	 	 	 	"maxStack",
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "Shard, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс падения легендарным (${legendaryChance}%) и Epic (${epicChance}%) элементы при разблокировании легендарных контейнеров (не стекабели) за ${time} минуту. * Важно: BUFF применится только при запуске процесса разблокировки во время активного использования BUFF *.",
+ 	 	 	 	"trans": "Осколок, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс падения легендарным (${legendaryChance}%) и Epic (${epicChance}%) элементы при разблокировании легендарных контейнеров (не стекабели) за ${time} минуту. * Важно: BUFF применится только при запуске процесса разблокировки во время активного использования BUFF *.",
  	 	 	 	"eng": "A shard that contains advance exploits designed to increase random drop chance of high tier items. Gains additional drop chance of Legendary (${legendaryChance}%) and Epic (${epicChance}%) items when unlocking Legendary containers (Not stackable) for ${time} minute. *IMPORTANT: The buff will only apply when the unlocking process is started while the buff is active*."
  	 	 	}
  	 	},
@@ -3270,7 +3247,7 @@
  	 	},
  	 	"tipsBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Pro Tips",
+ 	 	 	 	"trans": "Советы профессионалов",
  	 	 	 	"eng": "Pro Tips"
  	 	 	},
  	 	 	"description": {
