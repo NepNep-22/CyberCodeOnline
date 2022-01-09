@@ -71,6 +71,7 @@ Wanna
 [Makasin22](https://github.com/Makasin22)
 [ZHAama](https://github.com/ZHAama)
 [Alysson](https://github.com/alyssonmonteiro)
+[NepNep-22](https://github.com/NepNep-22)
 
 ## Proofreading
 [Skippayy](https://github.com/skippayyyy)
